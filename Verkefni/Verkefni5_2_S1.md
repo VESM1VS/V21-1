@@ -70,14 +70,12 @@ _Hvað gerir `map` fallið? í kóðanum?_
 
 ### 5.7 Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino (3%)
 1. Lestu og kynntu þér [Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/)
-2. Fylgdu eftir [One Stepp at a time í examples](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/#arduino-code-using-builtin-stepper-library) og settu upp á Breadboard. 
-
+2. Settu upp á brauðbretti og keyrðu etirfarandi forrit í Arduino IDE: `File -> Examples -> Stepper -> stepper_oneStepAtATime`
 
 #### Punktar:
 - **EKKI** tengja stepper motor við 5V á Arduino. 
 - Powering the stepper motor directly from the Arduino can damage it!
 - Notaðu 5V DC power supply fyrir skrefamótor.
-- 28BYJ-48 dregur 240mA
 
 Wiring diagram:
 
@@ -94,7 +92,6 @@ Fylgdu [kóðasýnidæmi með `AccelStepper` safni](https://lastminuteengineers.
 
 <!--
 [Fleiri dæmi](https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/)
-
 when powering the Arduino with USB power only, I would get inconsistent behavior and bad performance of the stepper motor.
 -->
 
@@ -116,6 +113,7 @@ Búðu til í **private** Github Repository vefsíðu í wiki eða skrá með ma
 
 
 <!--
+
 ### 5.8 Transistorar 
 
 1. Kynntu þér [Transistora](https://www.instructables.com/lesson/Transistors/).
@@ -129,10 +127,7 @@ Búðu til í **private** Github Repository vefsíðu í wiki eða skrá með ma
 
 ## Control Stepper Motor with L293D Motor Driver IC
 - https://lastminuteengineers.com/stepper-motor-l293d-arduino-tutorial/
--->
 
-
-<!--
 ## DC Motors 
 - [DC Motor, How it works? (myndband)](https://www.youtube.com/watch?v=LAtPHANEfQo&vl=ko)
 
