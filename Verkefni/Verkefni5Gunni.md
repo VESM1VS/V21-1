@@ -12,7 +12,7 @@ All you need to control a motor using an Arduino is a 2K resistor, an NPN transi
 The diode is used as a buffer. When electricity flows through the motor, the diode does nothing. However, when the motor stops, the reverse current flows across the diode, and back through the motor. This protects the circuit from sudden voltage spikes.
 -->
 
-### 5.1 Mótorar og hreyfingar.
+### 5.1 Mótorar og hreyfingar. 
 Lestu um algenga mótora og hreyfingar í [Motors and Motion](https://www.instructables.com/Motors-and-Motion/)
 
 1. Hvernig er stýrimótor (e. servo motor) ólíkur hefðbundnum DC mótor?
@@ -23,20 +23,20 @@ Lestu um algenga mótora og hreyfingar í [Motors and Motion](https://www.instru
 -->
 ---
 
-### 5.2 Servo Motors 
+### 5.2 Servo Motors (0%)
 1. Lestur þig til um [Servo mótors](https://www.instructables.com/Servo-A-Go-Go/)
 2. Myndband (1 mín) sem sýnir innviði stýrimótors [inside a servo motor](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/inside-a-servo)
 
 ---
 
-### 5.3 Servo Motors & `Sweep` forritið
+### 5.3 Servo Motors & `Sweep` forritið (3%)
 Kynntu þér hvernig Servó mótor virkar og settu upp og keyrðu `sweep` kóðann á brauðbretti [Sweep leiðbeiningar](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-code-sweep)
 
 _Hvað snýst servo motor margar gráður þegar hár púls (e. pulse) varir í 1.5 millisekúndur?_
 
 ---
 
-### 5.4 Rafþéttar (e. capasitors) 
+### 5.4 Rafþéttar (e. capasitors) (2%)
 Kynntu þér rafþétta (e. capasitors):
 1. [Circuit Playground: C is for Capacitor (myndband, 7 mín.)](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/video)
 2. [Capacitors](https://www.instructables.com/lesson/Capacitors-2/)
@@ -51,22 +51,23 @@ Sometimes your servo may misbehave if you decide to run it directly from the Ard
 
 ---
 
-### 5.5 Controlling Servo with a Potentiometer
+### 5.5 Controlling Servo with a Potentiometer (3%)
 Settu upp og keyrðu `Knob` kóðann á brauðbretti, notaðu þéttir, sjá [Knob leiðbeiningar](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#controlling-servo-with-a-potentiometer)
 
 _Hvað gerir `map` fallið? í kóðanum?_
 
 ---
 
-### 5.6 Skrefamótorar (e. stepper motors) 
+### 5.6 Skrefamótorar (e. stepper motors) (1%)
 1. [How does a Stepper Motor work? (6 mín myndband)](https://www.youtube.com/watch?v=eyqwLiowZiU)
 1. [How to use Stepper motors (7 mín myndband)](https://youtu.be/bkqoKWP4Oy4). 
 
-_Nefndu dæmi þar sem skrefamótorar nýtast betur en aðrar gerðir mótora._
+1. _Hvernig er skrefamótor ólíkur hefðbundnum DC mótor?_
+2. _Nefndu dæmi þar sem skrefamótorar nýtast betur en aðrar gerðir mótora._
 
 ---
 
-### 5.7 Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino
+### 5.7 Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino (3%)
 Lestu og kynntu þér [Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/)
 
 Fylgdu [Arduino Stepper Library](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/#arduino-code-using-builtin-stepper-library) og settu upp á Breadboard. 
@@ -84,7 +85,7 @@ Wiring diagram:
 
 ---
 
-### 5.8 Skrefamótor og AccelStepper safnið 
+### 5.8 Skrefamótor og AccelStepper safnið (3%)
 Fylgdu [kóðasýnidæmi með `AccelStepper` safni](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/#arduino-code-using-accelstepper-library) og settu upp á Breadboard. 
 <br>
 - It supports acceleration and deceleration.
@@ -106,10 +107,11 @@ when powering the Arduino with USB power only, I would get inconsistent behavior
 
 ## Námsmat og skil
 
-Búðu til í **private** Github Repository vefsíðu í wiki eða skrá með markdown sniði (.md).<br>
-Taktu saman eftirfarandi:
+Búðu til í **private** Github Repository vefsíðu í wiki eða skrá með markdown sniði (.md) sem inniheldur eftirfarandi:
 
-- Tengla á myndbönd af verklegum verkefnum. Mundu að láta nafnið þitt og dagsetningu koma fram í myndbandinu.
+- Svör við spurningum
+- Tengla á myndbönd af verklegum verkefnum. 
+  - _Láttu nafnið þitt og dagsetningu koma fram í myndbandinu._
 - Tengla á kóðaskrár sem þú notar í verklegum verkefnum (upload kóðaskrár).
 
 
