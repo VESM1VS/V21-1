@@ -1,5 +1,6 @@
 
 # Verkefni 5 - 15%
+---
 
 <!--
 1. [Electronics Class](https://www.instructables.com/Electronics-Class/)
@@ -12,7 +13,7 @@ All you need to control a motor using an Arduino is a 2K resistor, an NPN transi
 The diode is used as a buffer. When electricity flows through the motor, the diode does nothing. However, when the motor stops, the reverse current flows across the diode, and back through the motor. This protects the circuit from sudden voltage spikes.
 -->
 
-### 5.1 Mótorar og hreyfingar. 
+### 5.1 Mótorar og hreyfingar. (1%)
 Lestu um algenga mótora og hreyfingar í [Motors and Motion](https://www.instructables.com/Motors-and-Motion/)
 
 1. Hvernig er stýrimótor (e. servo motor) ólíkur hefðbundnum DC mótor?
@@ -23,7 +24,7 @@ Lestu um algenga mótora og hreyfingar í [Motors and Motion](https://www.instru
 -->
 ---
 
-### 5.2 Servo Motors (0%)
+### 5.2 Servo Motors 
 1. Lestur þig til um [Servo mótors](https://www.instructables.com/Servo-A-Go-Go/)
 2. Myndband (1 mín) sem sýnir innviði stýrimótors [inside a servo motor](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/inside-a-servo)
 
@@ -36,7 +37,7 @@ _Hvað snýst servo motor margar gráður þegar hár púls (e. pulse) varir í 
 
 ---
 
-### 5.4 Rafþéttar (e. capasitors) (2%)
+### 5.4 Rafþéttar (e. capasitors) (1%)
 Kynntu þér rafþétta (e. capasitors):
 1. [Circuit Playground: C is for Capacitor (myndband, 7 mín.)](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/video)
 2. [Capacitors](https://www.instructables.com/lesson/Capacitors-2/)
@@ -68,9 +69,8 @@ _Hvað gerir `map` fallið? í kóðanum?_
 ---
 
 ### 5.7 Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino (3%)
-Lestu og kynntu þér [Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/)
-
-Fylgdu [Arduino Stepper Library](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/#arduino-code-using-builtin-stepper-library) og settu upp á Breadboard. 
+1. Lestu og kynntu þér [Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/)
+2. Fylgdu eftir [One Stepp at a time í examples](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/#arduino-code-using-builtin-stepper-library) og settu upp á Breadboard. 
 
 
 #### Punktar:
