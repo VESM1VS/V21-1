@@ -10,7 +10,7 @@ _Í vinnslu_
 
 ### Dæmi um útfærslu
 
-![hönnun](../Myndir/lokav_V21.PNG)
+![hönnun](../Myndir/lokav_V21.png)
 
 ### Rafrásarteikning
 
