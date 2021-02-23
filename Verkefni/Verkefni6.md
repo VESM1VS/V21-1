@@ -31,7 +31,8 @@ _Í vinnslu_
 
 ### Kóði
 
-Kemur síðar
+Kóðinn fyrir Arduino er [hér](https://github.com/VESM1VS/V21-1/blob/main/Kodi/stepper.ino). **ATH.** Sami kóðinn fer á báða Arduino-ana.
+
 
 ## Námsmat
 _Í vinnslu_
