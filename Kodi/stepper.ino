@@ -30,7 +30,7 @@ void loop() {
   int val = analogRead(joystick);
  
   // if the joystic is in the middle ===> stop the motor
-  if(  (val > 500) && (val < 523) {
+  if( (val > 500) && (val < 523) ) {
     digitalWrite(IN1, LOW);
     digitalWrite(IN2, LOW);
     digitalWrite(IN3, LOW);
