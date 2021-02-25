@@ -1,5 +1,4 @@
 # Lokaverkefni (20%)
-_Í vinnslu_
 
 ## Verkefnalýsing
 
@@ -35,12 +34,11 @@ Kóðinn fyrir Arduino er [hér](https://github.com/VESM1VS/V21-1/blob/main/Kodi
 
 
 ## Námsmat
-_Í vinnslu_
-<!--
+
 - Samsetning á mekaník (40%)
 - Tenging á mótorstýringum (40%)
 - Virkni (20%)
--->
+
 
 ## Skil verkefnisins
 
